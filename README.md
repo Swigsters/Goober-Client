@@ -12,4 +12,4 @@
  playing a game in Goober's database then it will auto-open a script for that game!
  #### Lobby Mods:
   Goober Client also has lobby mods, for example, if you want to tp to a player, just use the tp button on Goober Client! This part of goober client can be used for esp, 
-tp'ing, and some other thing I forgor.
+tp'ing, and killing people (must have a tool in your invintory).
